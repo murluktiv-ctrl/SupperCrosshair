@@ -1,0 +1,11 @@
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\bin\Debug\SupperCroshair.exe.config
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\bin\Debug\SupperCroshair.exe
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\bin\Debug\SupperCroshair.pdb
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.csproj.AssemblyReference.cache
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.Properties.Resources.resources
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.csproj.GenerateResource.cache
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.csproj.CoreCompileInputs.cache
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.exe
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.pdb
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\SupperCroshair.exe.config
+C:\Users\Put in\Desktop\TheBestCrosshareV1.0\TheBestCrosshareV1.0\SuperCrosshare\SupperCroshair\SupperCroshair\obj\Debug\CrosshairApp.SettingsForm.resources
